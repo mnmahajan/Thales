@@ -1,2 +1,1 @@
-# Thales
-project 
+## Thales1 Java Project
